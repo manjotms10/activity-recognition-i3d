@@ -19,6 +19,8 @@ python optical_flow.py path_to_video
 ```
 This will create two .npy files namely flow.npy and frames.npy, which can be used by the model to classify the video.
 
+The original labels from the Kinetics dataset are in /data.
+
 Reference:
 
 [kinetics-i3d](https://github.com/deepmind/kinetics-i3d)  
