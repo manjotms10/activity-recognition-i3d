@@ -7,7 +7,7 @@ this repo implements the network of I3D with Pytorch, pre-trained model weights 
 you can evaluate sample 
 
 ```
-./multi-evaluate.py
+python evaluate.py
 
 ```
 
